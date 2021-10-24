@@ -1,9 +1,9 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
+  "modid": "nsaclient",
+  "name": "NSA Client",
+  "description": "A Minecraft Hack Clent made for NSA team targeted to Anarchy servers, Made by JAXUI_xxx and M1nt",
+  "version": "${b0.1}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
