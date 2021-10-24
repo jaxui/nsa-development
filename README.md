@@ -1,30 +1,16 @@
 <!-- PROJECT TITLE -->
-|  \                   |                            ________________
-|    \                 |                           /
-|      \               |                         /                                                                 /\
-|        \             |                        /                                                                /    \
-|          \           |                       /                                                               /       \
-|            \         |                      /___________________                                           /          \
-|              \       |                                         /                                          /             \
-|                \     |                                        /                                         /________________\
-|                  \   |                                       /                                        /                   \
-|                   \  |                                      /                                       /                      \
-|                    \ |                                     /                                      /                         \
-|                     \|                  __________________/                                     /                            \      Client
+NSA⠀⠀⠀⠀⠀⠀⠀Client
 
-
-![GitHub all releases](https://img.shields.io/github/downloads/hausemasterissue/spidersense/total?logo=github) ![GitHub clickgui](https://img.shields.io/badge/clickgui%20key-O-1?logo=Github) ![GitHub issues](https://img.shields.io/github/issues/hausemasterissue/spidersense?logo=Github) ![GitHub contributors](https://img.shields.io/github/contributors/hausemasterissue/spidersense?logo=github) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hausemasterissue/spidersense?label=code%20pasted) ![GitHub forks](https://img.shields.io/github/forks/hausemasterissue/spidersense?logo=github) ![GitHub Repo stars](https://img.shields.io/github/stars/hausemasterissue/spidersense?logo=github)
+⠀⠀⠀⠀Private
 
 <!-- INFORMATION -->
 ## Information
 
 #### About
-NSA Client is a client 
+NSA Client is a client for nsa users on 5b5t
 
 #### Credits
-***Check specific class files for full credits.***
-Huge thank's to the original GameSense developers, Inferno and anyone who has helped along the way. Especially Cyber, Hoosiers, FINZ0, 086, Christallinqq, Aestheticall and Perry.
-
+JAXUI,M1nt,Maxbr.
 <!-- INSTALLATION -->
 ## Installation
 1. Go to the releases tab and download the latest release
@@ -52,6 +38,5 @@ Make a pull request with what features or improvements you want to add into the 
 
 <!-- SUPPORT -->
 ## Support
-Feature requests and bugs can be sumbitted by creating an issue. Or you can contact me at queueskip2b2t@gmail.com
-
+Feature requests and bugs can be sumbitted by creating an issue. Or you can contact me on discord ᴊᴀxᴜɪ#3774
 
