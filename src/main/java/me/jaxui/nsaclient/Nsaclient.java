@@ -23,6 +23,6 @@ public class NsaMod {
     @EventHandler
     public void init(FMLInitializationEvent event) {
         // some example code
-        logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
+        logger.info("Loaded The Shit U Wanted Me To Load");
     }
 }
