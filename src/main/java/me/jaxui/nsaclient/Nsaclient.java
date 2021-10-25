@@ -22,7 +22,7 @@ public class NsaMod {
 
     @EventHandler
     public void init(FMLInitializationEvent event) {
-        // some example code
+        // not some example code lol
         logger.info("Loaded The Shit U Wanted Me To Load");
     }
 }
