@@ -7,9 +7,8 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = ExampleMod.MODID, name = ExampleMod.NAME, version = ExampleMod.VERSION)
-public class ExampleMod
-{
+@Mod(modid = NsaMod.MODID, name = NsaMod.NAME, version = NsaMod.VERSION)
+public class NsaMod {
     public static final String MODID = "nsaclient";
     public static final String NAME = "Nsa Client";
     public static final String VERSION = "beta0.1";
@@ -17,14 +16,12 @@ public class ExampleMod
     private static Logger logger;
 
     @EventHandler
-    public void preInit(FMLPreInitializationEvent event)
-    {
+    public void preInit(FMLPreInitializationEvent event) {
         logger = event.getModLog();
     }
 
     @EventHandler
-    public void init(FMLInitializationEvent event)
-    {
+    public void init(FMLInitializationEvent event) {
         // some example code
         logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
     }
