@@ -1,11 +1,11 @@
 package me.earth.phobos.features;
 
-import me.earth.phobos.Phobos;
-import me.earth.phobos.features.gui.PhobosGui;
-import me.earth.phobos.features.modules.Module;
-import me.earth.phobos.features.setting.Setting;
-import me.earth.phobos.manager.TextManager;
-import me.earth.phobos.util.Util;
+import me.jaxui.nsaclient.Nsaclient;
+import me.jaxui.nsaclient.features.gui.NsaClientGui;
+import me.jaxui.nsaclient.features.modules.Module;
+import me.jaxui.nsaclient.features.setting.Setting;
+import me.jaxui.nsaclient.manager.TextManager;
+import me.jaxui.nsaclient.util.Util;
 
 import java.util.ArrayList;
 import java.util.List;
