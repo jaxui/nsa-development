@@ -1,4 +1,4 @@
-package me.earth.phobos.features.setting;
+package me.jaxui.nsaclient.features.setting;
 
 import com.google.common.base.Converter;
 import com.google.gson.JsonElement;
