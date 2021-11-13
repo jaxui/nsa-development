@@ -1,6 +1,6 @@
 package me.jaxui.nsaclient.util;
 
-import me.jaxui.nsaclient;
+import me.jaxui.Nsaclient;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.client.Minecraft;
