@@ -1,10 +1,10 @@
 package me.earth.phobos.features.gui;
 
-import me.earth.phobos.Phobos;
-import me.earth.phobos.features.gui.components.Component;
-import me.earth.phobos.features.gui.components.items.Item;
-import me.earth.phobos.features.gui.components.items.buttons.ModuleButton;
-import me.earth.phobos.features.modules.Module;
+import me.jaxui.nsaclient.Nsaclient;
+import me.jaxui.nsaclient.features.gui.components.Component;
+import me.jaxui.nsaclient.features.gui.components.items.Item;
+import me.jaxui.nsaclient.features.gui.components.items.buttons.ModuleButton;
+import me.jaxui.nsaclient.features.modules.Module;
 import net.minecraft.client.gui.GuiScreen;
 import org.lwjgl.input.Mouse;
 
