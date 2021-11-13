@@ -1,7 +1,7 @@
 package me.earth.phobos.features.setting;
 
-import me.earth.phobos.event.events.ClientEvent;
-import me.earth.phobos.features.Feature;
+import me.nsaclient.event.events.ClientEvent;
+import me.nsaclient.features.Feature;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.eventhandler.Event;
 
