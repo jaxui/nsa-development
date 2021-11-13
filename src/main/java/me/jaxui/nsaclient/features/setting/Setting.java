@@ -1,7 +1,7 @@
-package me.earth.phobos.features.setting;
+package me.jaxui.nsaclient.features.setting;
 
-import me.nsaclient.event.events.ClientEvent;
-import me.nsaclient.features.Feature;
+import me.jaxui.nsaclient.event.events.ClientEvent;
+import me.jaxui.nsaclient.features.Feature;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.eventhandler.Event;
 
