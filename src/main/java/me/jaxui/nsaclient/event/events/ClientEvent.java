@@ -1,8 +1,8 @@
-package me.earth.phobos.event.events;
+package me.jaxui.nsaclient.event.events;
 
-import me.earth.phobos.event.EventStage;
-import me.earth.phobos.features.Feature;
-import me.earth.phobos.features.setting.Setting;
+import me.jaxui.nsaclient.event.EventStage;
+import me.jaxui.nsaclient.features.Feature;
+import me.jaxui.nsaclient.features.setting.Setting;
 import net.minecraftforge.fml.common.eventhandler.Cancelable;
 
 @Cancelable
